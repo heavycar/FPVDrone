@@ -109,5 +109,11 @@ Okay leaving this spot we have other things to worry about this
   Obviously is not a super high end board it's a mid to advanced
   i noticed that the pads are small for low AWG cables so it can be pretty hard to solder but i think i can handle
 
+  Those are some of the shots of the f722 stack kit i'm getting
+  <img width="334" height="257" alt="image" src="https://github.com/user-attachments/assets/fcd2685c-04ef-482a-9015-ce4ab2725645" />
+
+
+
+
 I'm using the 45A version cuz it's cheaper and i'm not using stronger motors because they are more expensive and i simply don't need for a simple first FPV so
 So, by now I'm just doing the theorical thing not building or some shi, but i hope i can make it out soon.
