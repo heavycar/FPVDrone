@@ -1,6 +1,8 @@
-For the flight controller i want to use a HAKRC F722 V2 Stack, it looks very cool and i think it supports a look of functionalities, although it's very expensive, like... very, i can't afford ts, and i'm not finding it's datasheet
+For the flight controller i want to use a HAKRC F722 V2 Stack, it looks very cool and i think it supports a look of functionalities, although it's very expensive, like... very, i can't afford ts, and i'm not finding it's datasheet.
+
 So i ask chatgpt to give me it's information and this is what it looks like (Just remembering that only the info its AI, all the explanation it's done by me, i warned when i used AI)
 -Processor(MCU)
+
   STM32F722RET6 (F7)
   It's useful on high perfomance and demand drones, it's fast and stable
 -Sensors
