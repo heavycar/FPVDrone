@@ -27,7 +27,21 @@ Glossary
 
 
 Battery chosen to be used by now: https://chinahobbyline.com/products/cnhl-ministar-series-1500mah-14-8v-4s-120c-lipo-battery-with-xt60-plug?variant=43581309092054
+
 Here are some images to help you better understanding things
-Series and parallel connection
-![6421deaf9f82df20e53e3056_ParallelSeriesCiruit](https://github.com/user-attachments/assets/47e8d3e7-d8d6-48e6-b591-ab53ae6eff81)
-When you connect a batterie in parallel all the negative and positive are conected together, voltage doesn't rise but battery total capacity does, in series if u battery 1 and 2 and connect battery one negative and connect to positive of battery two you just made a series connection, capacity doens't rise but voltage does
+Series and parallel connection.
+When you connect a batterie in parallel all the negative and positive are conected together, voltage doesn't rise but battery total capacity does
+<img width="328" height="546" alt="Screenshot_20260402_180454" src="https://github.com/user-attachments/assets/5835ad9c-3527-4b6b-b3e2-d427be74982a" />
+in series if u battery 1 and 2 and connect battery one negative and connect to positive of battery two you just made a series connection, capacity doens't rise but voltage does
+<img width="328" height="546" alt="Screenshot_20260402_180537" src="https://github.com/user-attachments/assets/adaba3f3-1da1-4bb0-a15c-7a862399aa93" />
+
+C rating thing
+<img width="365" height="160" alt="RNAV3" src="https://github.com/user-attachments/assets/375ef200-24d9-40fd-bfb0-53e6d4cd88c3" />
+Remember that the Amp  hours shown in the first and third are Ah not mAh, quick reminder that Ah means mAh : 1000 and mAh means Ah * 1000 simple equations to discover max amps a battery can deliver, how much time can a battery last with certain charge and the discharge charge value 
+
+this image shows how voltage sag happens, we see clear voltage waves and probably when suddenly a high power is demanded the voltage drops
+<img width="977" height="526" alt="Voltage-Sag" src="https://github.com/user-attachments/assets/5850e42b-0926-449b-89e6-b7866e062793" />
+
+Thsi image shows a XT60 connector, a connector rated for high current and high temperatures
+![XT60-Male-Female-Pair-Closeup-sq-jpg](https://github.com/user-attachments/assets/3bfa34b7-fc95-4cd9-bba8-7ee9df95cece)
+This is all you need to see about those stuff
