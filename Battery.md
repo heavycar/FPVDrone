@@ -50,4 +50,5 @@ this image shows how voltage sag happens, we see clear voltage waves and probabl
 
 Thsi image shows a XT60 connector, a connector rated for high current and high temperatures
 ![XT60-Male-Female-Pair-Closeup-sq-jpg](https://github.com/user-attachments/assets/3bfa34b7-fc95-4cd9-bba8-7ee9df95cece)
+
 This is all you need to see about those stuff
