@@ -20,12 +20,13 @@ idea of what ts is so... quick explanation again: It’s a tiny chip that adds i
 Connectivity
   It has 6 uart ports, those are pretty boring to connect, since it has so much pins on uart communication but... that's what we get
   
-  it can connect modules like
-    ELRS / Crossfire receivers | Quick explanation: Those are how your FC "talks" to your RC bassically beign: ELSR modern communication protocol(Low latency, long range, open-source) and Crossfire receiver that is older but very reliable long-range system
+  it can connect modules like:
+  
+  ELRS / Crossfire receivers | Quick explanation: Those are how your FC "talks" to your RC bassically beign: ELSR modern communication protocol(Low latency, long range, open-source) and Crossfire receiver that is older but very reliable long-range system,
     
-    GPS | Yeah, not so much to talk about, it's GPS if you don't know it, leave the cave, it adds functionalites like return-to-home, position hold, speed tracking and some other complex ass stuff, in one line, it tells where your drone is in the world
+  GPS | Yeah, not so much to talk about, it's GPS if you don't know it, leave the cave, it adds functionalites like return-to-home, position hold, speed tracking and some other complex ass stuff, in one line, it tells where your drone is in the world
     
-    DJI / O3 Air Unit | Those are pretty more complex to explain but let's go, this is your digital video + control system (way more advanced than analog). It sends HD video to your goggles not that creppy ass stuff that OSD sends. Can also handle control signal (if using DJI controller) not the case. Low latency + high quality image. I don't think i'm using this, i lowk prefer the creeppy ass stuff that OSD sends
+DJI / O3 Air Unit | Those are pretty more complex to explain but let's go, this is your digital video + control system (way more advanced than analog). It sends HD video to your goggles not that creppy ass stuff that OSD sends. Can also handle control signal (if using DJI controller) not the case. Low latency + high quality image. I don't think i'm using this, i lowk prefer the creeppy ass stuff that OSD sends
     
 Power
   Input: 2S–6S LiPo
@@ -62,46 +63,46 @@ ESC (Stack)
   
   Oneshot
   
-    honestly i didn't understand a shit of what is this so... let's go back to the ai slop yayy =)
+  honestly i didn't understand a shit of what is this so... let's go back to the ai slop yayy =)
     
-      Ai answer reformulated:
+  Ai answer reformulated:
       
-      ESC (Stack): It’s the part that powers and controls the motors. It takes commands from the FC and turn into power to motors
+  ESC (Stack): It’s the part that powers and controls the motors. It takes commands from the FC and turn into power to motors
       
-      Variants (45A, 50A, 60A, 65A): This is how much current it can handle | Continuous = safe all the time | Burst = short spikes only
+  Variants (45A, 50A, 60A, 65A): This is how much current it can handle | Continuous = safe all the time | Burst = short spikes only
       
-      👉 Example: 45A = runs at 45A normally, can handle 50A for a short moment
+   👉 Example: 45A = runs at 45A normally, can handle 50A for a short moment
       
-      👉 Bigger number = more powerful motors supported
+   👉 Bigger number = more powerful motors supported
       
-      Protocols (DShot, Multishot, Oneshot): These are how the flight controller talks to the ESC.
+  Protocols (DShot, Multishot, Oneshot): These are how the flight controller talks to the ESC.
       
-      DShot (150/300/600) → digital, reliable (BEST, most used)
+  DShot (150/300/600) → digital, reliable (BEST, most used)
       
-      Multishot / Oneshot → older, analog, less precise
+  Multishot / Oneshot → older, analog, less precise
       
-      👉 Higher DShot number = faster signal
+  👉 Higher DShot number = faster signal
       
-      Trade-offs:
+  Trade-offs:
       
-        Higher (DShot600):
+  Higher (DShot600):
         
-        ✅ Lower latency (faster response)
+  ✅ Lower latency (faster response)
         
-        ✅ Better for racing / aggressive flying
+  ✅ Better for racing / aggressive flying
         
-        ❌ More CPU load on the flight controller
+  ❌ More CPU load on the flight controller
         
-        ❌ More sensitive to noise on bad wiring
+  ❌ More sensitive to noise on bad wiring
 
-        Lower (DShot150 / 300):
-        ✅ More stable / reliable on noisy setups
+  Lower (DShot150 / 300):
+   ✅ More stable / reliable on noisy setups
         
-        ✅ Less CPU usage
+  ✅ Less CPU usage
         
-        ❌ Slightly slower response
+  ❌ Slightly slower response
         
-      Quick summary: ESC → ⚡ drives motors | A(current | Amper) rating → 💪 power limit | Protocol → 🗣️ communication method
+  Quick summary: ESC → ⚡ drives motors | A(current | Amper) rating → 💪 power limit | Protocol → 🗣️ communication method
 
 Okay leaving this spot we have other things to worry about this
   No SD card (only 16MB internal logging) idk if i can connect an sd in a uart, obviously using a converter
