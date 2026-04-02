@@ -21,7 +21,6 @@ Connectivity
   It has 6 uart ports, those are pretty boring to connect, since it has so much pins on uart communication but... that's what we get
   
   it can connect modules like
-
     ELRS / Crossfire receivers | Quick explanation: Those are how your FC "talks" to your RC bassically beign: ELSR modern communication protocol(Low latency, long range, open-source) and Crossfire receiver that is older but very reliable long-range system
     
     GPS | Yeah, not so much to talk about, it's GPS if you don't know it, leave the cave, it adds functionalites like return-to-home, position hold, speed tracking and some other complex ass stuff, in one line, it tells where your drone is in the world
