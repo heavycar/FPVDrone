@@ -1,0 +1,1 @@
+Ok for the frame i'm not taking something so expensive or high-end, i'll just go with a Mark4 FPV Carbon Fiber Frame, so it fits with my camera and i'll chosse a motor that fits with it i think i'll be fine
