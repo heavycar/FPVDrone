@@ -2,7 +2,7 @@ For the flight controller i want to use a HAKRC F722 V2 Stack, it looks very coo
 So i ask chatgpt to give me it's information and this is what it looks like (Just remembering that only the info its AI, all the explanation it's done by me, i warned when i used AI)
 -Processor(MCU)
   STM32F722RET6 (F7)
-  It's useful on high perfomance and demand drones, it's fast and stable
+  It's useful on high perfomance and demand drones, it's fast and stable.
 -Sensors
   Gyroscopic(ICM42688 (dual gyro)
   Barometer: integrated (if you don't knew it like me here's a explanation of what it is these two things) a gyroscopic it's a sensor that basically detects how the scructure is moving, how it tilts, how it rotates, from all the angles(depending on the model) but a barometer is a bit more complex because it measure air pressure, estimating altitude or if something is going up or down
