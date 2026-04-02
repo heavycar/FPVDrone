@@ -110,6 +110,7 @@ Okay leaving this spot we have other things to worry about this
   i noticed that the pads are small for low AWG cables so it can be pretty hard to solder but i think i can handle
 
   Those are some of the shots of the f722 stack kit i'm getting
+  
   <img width="334" height="257" alt="image" src="https://github.com/user-attachments/assets/fcd2685c-04ef-482a-9015-ce4ab2725645" />
 
 
