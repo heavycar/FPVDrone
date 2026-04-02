@@ -27,3 +27,7 @@ Glossary
 
 
 Battery chosen to be used by now: https://chinahobbyline.com/products/cnhl-ministar-series-1500mah-14-8v-4s-120c-lipo-battery-with-xt60-plug?variant=43581309092054
+Here are some images to help you better understanding things
+Series and parallel connection
+![6421deaf9f82df20e53e3056_ParallelSeriesCiruit](https://github.com/user-attachments/assets/47e8d3e7-d8d6-48e6-b591-ab53ae6eff81)
+When you connect a batterie in parallel all the negative and positive are conected together, voltage doesn't rise but battery total capacity does, in series if u battery 1 and 2 and connect battery one negative and connect to positive of battery two you just made a series connection, capacity doens't rise but voltage does
