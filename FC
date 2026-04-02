@@ -66,4 +66,5 @@ Okay leaving this spot we have other things to worry about this
   No SD card (only 16MB internal logging) idk if i can connect an sd in a uart, obviously using a converter
   Obviously is not a super high end board it's a mid to advanced
   i noticed that the pads are small for low AWG cables so it can be pretty hard to solder but i think i can handle
-Thats it
+
+I'm using the 45A version cuz it's cheaper and i'm not using stronger motors because they are more expensive and i simply don't need for a simple first FPV so
