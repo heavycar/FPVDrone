@@ -20,3 +20,6 @@ Designed for 5-inch FPV drones
 Higher KV = faster response and more aggressive flight behavior
 Requires a battery with a high C rating
 A 45A ESC is enough for this motor
+
+![4a6aee9c5e7ffb1499a7a3b9fb9eaf0a](https://github.com/user-attachments/assets/236de188-8561-4c9e-96b7-5408474720dd)
+
