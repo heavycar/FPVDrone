@@ -61,3 +61,9 @@ Bluetooth (PC simulator)
 The RC range is much larger than the video range the video will be lost before the controls lost, this is actually good and expected because you can still control de drone to activate de GPS SOS mode 
 
 All the info in this was taken from radiomaster website and the product's datasheet
+
+Here are some photos
+
+![images](https://github.com/user-attachments/assets/6dbb470a-1a85-41cf-b25e-7ceed6347395)
+
+![download](https://github.com/user-attachments/assets/309b9356-6e97-46c9-ad82-f42ee96c3c4c)
