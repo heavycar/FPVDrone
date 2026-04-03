@@ -8,8 +8,11 @@ i still need to configure it in betaflight later, but for now it's just part of 
 
 i want to use a Beitian BN-880 cuz it comes with integrated compass, strong signal and it's widely used on FPV world, it' really not that expensive and simple to set up
 here are some nerd info dumping🤓☝🏼
+
  Chip: u-blox M8N
 - GPS + Compass (HMC5883L / QMC5883)
 - Comunication: UART
 - Voltage: 5V
 - it can add some good functionalities like return-to home and map 
+
+![shopping](https://github.com/user-attachments/assets/c9c8a4ad-ccf3-4ba7-b678-76c7c8c43bec)
