@@ -5,3 +5,11 @@ https://a.aliexpress.com/_mMrKItT
 Antennas
 https://a.aliexpress.com/_mqgBwg
 Remember to pick the 152mm SMA black version to fit in the google
+
+Goggles:
+
+<img width="614" height="469" alt="Screenshot_20260403_203627" src="https://github.com/user-attachments/assets/c448094f-0d63-4896-b74d-e495ad410cd8" />
+
+Antennas:
+
+<img width="451" height="420" alt="Screenshot_20260403_203809" src="https://github.com/user-attachments/assets/45f1ca46-6d5a-4328-bb25-9f32b075d5b9" />
