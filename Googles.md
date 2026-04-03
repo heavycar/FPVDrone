@@ -4,7 +4,7 @@ Goggles
 https://a.aliexpress.com/_mMrKItT
 Antennas
 https://a.aliexpress.com/_mqgBwg
-Remember to pick the 152mm SMA black version to fit in the google
+Remember to pick the 152mm SMA black version to fit in the google.
 
 Goggles:
 
