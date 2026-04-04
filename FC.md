@@ -1,23 +1,31 @@
 For the flight controller i want to use a HAKRC F722 V2 Stack, it looks very cool and i think it supports a look of functionalities, although it's very expensive, like... very, i can't afford ts, and i'm not finding it's datasheet.
 
 So i ask chatgpt to give me it's information and this is what it looks like (Just remembering that only the info its AI, all the explanation it's done by me, i warned when i used AI)
+
 -Processor(MCU)
 
   STM32F722RET6 (F7)
+
   It's useful on high perfomance and demand drones, it's fast and stable
   
 -Sensors
+
   Gyroscopic(ICM42688 (dual gyro)
+
   Barometer: integrated (if you don't knew it like me here's a explanation of what it is these two things) a gyroscopic it's a sensor that basically detects how the scructure is moving, how it tilts, how it rotates, from all the angles(depending on the model) but a barometer is a bit more complex because it measure air pressure, estimating altitude or if something is going up or down
   
 -OSD
+
   AT7456E (analog OSD)(Don't make and
+
 idea of what ts is so... quick explanation again: It’s a tiny chip that adds information on top of a video signal. Basically, it takes the camera feed from your drone and overlays stuff like battery voltage, speed, altitude, etc., directly onto the image you see in your goggles. ok i'll admit this is a chat gpt answer but is so simple, if u don't understand it search it on https://commons.wikimedia.org/wiki/File:FPV_OSD.png the image that u first see on the page it's a OSD image, those tiny white letters are the osd chip that puts, basically getting the original image and putting some complicate ass info in it(ngl, its not so complicated)
 
 -Memory
+
   It has 16mb of internal flash memory, it can write flight data and other stuff
   
 Connectivity
+
   It has 6 uart ports, those are pretty boring to connect, since it has so much pins on uart communication but... that's what we get
   
   it can connect modules like:
@@ -29,17 +37,29 @@ Connectivity
 DJI / O3 Air Unit | Those are pretty more complex to explain but let's go, this is your digital video + control system (way more advanced than analog). It sends HD video to your goggles not that creppy ass stuff that OSD sends. Can also handle control signal (if using DJI controller) not the case. Low latency + high quality image. I don't think i'm using this, i lowk prefer the creeppy ass stuff that OSD sends
     
 Power
+
   Input: 2S–6S LiPo
+
   BEC outputs:
-  5V / 3A     |__Those are the output, don't missconfuse it, if you do, good luck trying to fly a drone with those shitty power, won't even lift the ground
-  10V / 2.5A  |
-  
+
+  5V / 3A   
+
+  10V / 2.5A  
+
+Those are the output, don't missunderstand it, if you do, good luck trying to fly a drone with those shitty power, won't even lift the ground
+
 Size & Mounting
-  Dimensions: 36 × 36 mm         |
-  Mounting: 30.5 × 30.5 mm (M3)  |-Really tiny and lightweight, lowk think it looks cute
-  Weight: ~8.5 g                 |
+
+  Dimensions: 36 × 36 mm         
+
+  Mounting: 30.5 × 30.5 mm (M3)  
+
+  Weight: ~8.5 g        
+
+Really tiny and lightweight, lowk think it looks cute
   
 Compatibility
+
   Betaflight (target: HAKRCF722V2) | Betaflight is the firmware (software) that runs the flight controller, basically an OS that takes all the data from the chips and do it's functionallities. The “target” means it’s built specifically for that board.
   
   DJI digital systems supported | we won't use this
