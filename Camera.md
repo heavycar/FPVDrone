@@ -7,3 +7,5 @@ Size: 19mm (micro)
 Voltage: 5–36V
 Aspect Ratio: 4:3 / 16:9
 Use case: freestyle / beginner
+
+<img width="467" height="470" alt="image" src="https://github.com/user-attachments/assets/fb25e6fa-4528-4375-b891-7fb3db6f5c6d" />
