@@ -1,5 +1,4 @@
 What many people don't know is that you can actually add a lidar sensor to your project, is much more practical and useful in normal drones not fpv, but you can add it maybe by curiosity
-
 So what is a lidar sensor? Lidar stands for "light detection and ranging" 
 
 It works bassicaly like this:
