@@ -1,29 +1,26 @@
-##If you don't know any terms mentioned here, check the end of the page ther will e a glossary
+##If you don't know any terms mentioned here, check the end of the page there will be a glossary
 
-Ok, so like i said in the first commit i don't know where tf to start so i asked chatgpt to recommend me a battery for the fc, and it said to use a 4S li-po around 1200mah for 1500, and ≥ 75C (ideal 80–120C) idk what does this "C" stands for but it said that is cheaper, more realiable and better for initial fpv projects with low budget
+for the battery, that are really a lot of option to decide, If i want more power i can use a 6S one but i don't think i need something like this but we do need to worry about "Voltage sag" because a 6S battery do much lower and smoother voltage sag than a 4s one, i'll leave all complicated terms in the glossary don't worry
 
-It said that if i want more power i can use a 6S one but i don't think i need something like this, i can just upgrade it later, it said something about a "Voltage sag" that a 6S battery has less than a 4 one, i'll leave all complicated terms in the glossary don't worry
+Large battery increases weight, pushing motors near limits and reducing efficiency, leading to worse performance.
 
-And i can't get a super big battery like 2200mah because it can weight so much that the 45A motors will have to reach near it's full capacity to lift it, and when it reaches it comes to be less efficient so it's actually worse
-
-and no low C rating battery, still no idea of what tf is this
+And we need to get a battery with high C rating like 100C or 130C
 
 I can't take a 6s battery without knowing the motor KV rating, all those words and terms in the glossary :)
 
-It reccomends me to use a 4S 1300mAh 100C LiPo with a commong XT60 connector.
+I will use a 4S 1550mAh 150C
 
   Voltage: 4S (14.8V)
 
-  Capacity: 1300–1500mAh
+  Capacity: 1550mAh
 
-  Discharge: ≥75C
+  Discharge: 150C nominal / 300C Burst
 
   Use case: 5” freestyle / beginner
 
-I should buy 3 or 4 of those because it don't last so much, 
+I should buy 3 or 4 of those because it won't last so much, 
 
-
-I'm thinking about getting 2 batteries of 1500MAH 4S 120C with 14,8V from ChinaHobbyLine that is actually not just a store but a whole industry so i think it's good
+So i'm getting this from CNHL(China hobby line) i saw it and it's a good brand and seller.
 
 Glossary
 -  Li-po | this is bassicaly a type of battery, it exists, li-ion, life-po4 and other type of batteries=
@@ -45,4 +42,7 @@ Glossary
 - Efficiency (in FPV context) so efficiency is basically how optimized your drone is, Bad efficiency means more energy beign wasted into heat consequentially less flight time because energy that could be used in motors is beign wasted and more battery stress | good efficieny means less heat, more flight time and smoother perfomances
 
 
-Battery chosen to be used by now: https://chinahobbyline.com/products/cnhl-ministar-series-1500mah-14-8v-4s-120c-lipo-battery-with-xt60-plug?variant=43581309092054
+Battery chosen to be used by now:
+
+<img width="586" height="367" alt="image" src="https://github.com/user-attachments/assets/3521733c-e895-4fa4-b32b-b6440ed9cf35" />
+
