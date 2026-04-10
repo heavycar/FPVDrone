@@ -1,3 +1,4 @@
+
 What many people don't know is that you can actually add a lidar sensor to your project, is much more practical and useful in normal drones not fpv, but you can add it maybe by curiosity
 So what is a lidar sensor? Lidar stands for "light detection and ranging" 
 
@@ -193,4 +194,24 @@ heavy
 
 need external algorithm
 
-All that is bassically useless for an fpv because if you want something lightweight and cheap then it wont have enough range, precion or reacting time but if you want something with high range and high precision the it won't be cheap or lightweight
+All that is bassically useless for an fpv because if you want something lightweight and cheap then it wont have enough range, precion or reacting time but if you want something with high range 
+and high precision the it won't be cheap or lightweight
+
+Generical LiDar
+
+![61bgjfW489L](https://github.com/user-attachments/assets/e012ce78-1f08-40d8-b53e-075729edee8a)
+
+VL53L0X Sensor ToF
+
+![PtsT3nicDcndCoIwGADQJ5pmhaIQkaWC5h9alDeR05xo22rflL1Jr9bb1Lk93w8B4MLR9Zbit-LQNghqutQ6AXfosYbZUxeEcd7Tbvva_M_ZJY0d4MLkj0Ol4qKtJEoBJmEMipyRKn0_q4dIloiJ-Hojx5C4ReBSZsn5MscLFAo2Jj1lnoutXI5e1Ez0VJlGVpv2Xqz8NIds3f0AUPs2_g](https://github.com/user-attachments/assets/7796f427-043f-4c2f-9cac-b91e454b4710)
+
+TF-Luna
+
+![ubXNfnicDcltCoIwAADQEy2tEVEQITUVqaUpTP0jc_Mjsjm3VaxDdZ9uU-_v-356Y6TeOE4jmLLSNByYWrizThtqrmzGxruj-1HKq-h20_Z_Gw_zdcAuASx5Jqzc732F3ATAKWAr_FxOmmbIjeIa4kNaJ21U0IDcyNweo5xXNLPz4cHPlyHxMICGHMkd-J1bL8qWWKVTNcUhRSrMkTeIIofIiIyevCptqtf78QPpez3x](https://github.com/user-attachments/assets/1d2a8e0f-1756-41b1-b600-b8e815b6e584)
+
+RPLIDAR A1 360°
+
+![bOdCGnicDcltCoIwAADQE6lkmChERJJWJpqWsT9h2_zc5nRb6E26WrfJ9_f9vrWUXLiGgRkcZy4x0uSbrfVKyEI2UIc9NUTdc96wajdsl3P3EXJ8mGgrE95YbrXOqwQ8YZ46i9FKwal8dLghImsPg7KmKxpNEfizvWEqKDyck4x09xREk4OgXVOqVPeJNALa-FiGzxTHXngxafUHQws3rQ](https://github.com/user-attachments/assets/7c8e425f-cc31-4ea2-8a00-9239594e5e98)
+
+
+
