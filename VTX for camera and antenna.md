@@ -37,3 +37,7 @@ VTX1000 + Antenna + 3d piece + Pigtail to mmcx antenna
 <img width="383" height="470" alt="image" src="https://github.com/user-attachments/assets/91fcb85f-11b5-4ffa-a8b2-89be53f892af" />
 
 <img width="558" height="487" alt="image" src="https://github.com/user-attachments/assets/c016da77-50e2-4bc0-907b-e4c43dde208d" />
+
+Shit ahh datasheet(the only i found)
+<img width="1088" height="552" alt="image" src="https://github.com/user-attachments/assets/d6e53a3e-b974-4fd7-a377-a74cf21ef56f" />
+
