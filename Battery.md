@@ -27,7 +27,7 @@ Glossary
 
 -  S (Cells, seriess) | examples: 4S, 6S, this is how the battery is mounted, because inside of one 4S battery for example there are 4 smaller batteries wired in series and in a 6S there are 6 batteries wired in series
 
--  mAh (Milliamp Hour) | This is a measure unit for battery capacity to do a better understading let's take a 2000Mah battery, it means that this battery can give you 2000 mili amperes for one your or 2 amperes for an hour (this is therically it obvious will waste energy on heat and will not be 100% efficient)
+-  mAh (Milliamp Hour) | This is a measure unit for battery capacity to do a better understading let's take a 2000Mah battery, it means that this battery can give you 2000 mili amperes for one hour or 2 amperes for an hour (this is therically it obvious will waste energy on heat and will not be 100% efficient)
 
 - C rating | It means how much power the battery can give you | Formula: Max Current = (Capacity in mAh : 1000) * C So if we take a battery with 1300mah it is 1.3Ah with 100C points we make: Max current = 1.3 * 100 So Max current = 130A this is the max the battery can output, Sometimes it's fake, exaggerated, or real but under very favorable conditions that generally don't occur.
 
