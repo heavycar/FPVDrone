@@ -11,6 +11,8 @@ Flux, this is very important, it helps to clean the surfaces and to improve the 
 
 For the iron you need at least 60w, in the esc there are some big pads that require a lot of heat to solder properly, if you have a low wattage iron it will be very difficult to solder those pads and you will end up with cold joints and other issues, so just get a good quality 60w soldering iron and you will be good to go. 
 
+Get a soldering sucker to, so you can easily remove solder
+
 Multimeter, this is a very useful tool for testing and troubleshooting your drone, it will help you to check the continuity of your connections, to measure the voltage and current, and to diagnose any issues that may arise during the build process, you can get a cheap multimeter for this project, but make sure that it has a good range and that it is easy to use.
 
 You can see if something is shorting or if there is a bad connection, you can also use it to check the voltage of your battery and to make sure that everything is working properly before you fly your drone, no need for a very good or expensive just a cheap one solve most of the problems
@@ -26,3 +28,5 @@ Zip ties, those are really useful for organizing your wires and for keeping ever
 Isopropyl alcohol, You will need this to clean your board from flux and other residues, just make sure the board isn't powered when you are cleaning because sparks can set the whole thing in fire, get a old toothbrush and some cotton and you are good to go
 
 Microscope, this is optional but very good in case you have issues when looking at tiny things, it will help you not forcing your eyes.
+
+
