@@ -9,3 +9,5 @@ and what about voltage sag and why current spikes cause it: Voltage sag is the d
 The capacitor helps to mitigate voltage sag by providing a temporary reserve of power that can be drawn upon during these spikes, helping to maintain a more stable voltage and improve the drone's performance and reliability.
 
 No need for expensive brands just get a random capacitor that have those cuts on top of it, i recomend for this project a 35v 560UF one
+
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/f8049384-bbea-4983-85ac-fa794d775668" />
