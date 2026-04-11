@@ -11,3 +11,5 @@ I'm getting one from "FlyFishRC" it says that is not slipper
 This is the link, maybe it is not going to work
 
 https://www.amazon.com.br/Batteries-20x200mm-Rubberized-Non-Slip-Helicopters/dp/B0DKTPDV2D
+
+<img width="494" height="435" alt="image" src="https://github.com/user-attachments/assets/65d785b0-e7e3-4cce-9776-2c7bfd8e47a3" />
