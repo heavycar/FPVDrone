@@ -6,4 +6,4 @@ So in case there's a short circuit in the system your battery or ESC or FC wont'
 
 It's simple and cheap but can save you the whole system
 
-i'm using the ViFly short saver V2 it's simple and cheap
+<img width="236" height="214" alt="image" src="https://github.com/user-attachments/assets/151d6831-3ec6-4689-9311-4fc650942226" />
