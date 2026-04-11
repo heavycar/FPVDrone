@@ -47,3 +47,5 @@ I'm choosing HQPROP Ethix P3 although it is very fragile and low pitch but it is
 Breaking props is a normal part of flying drones, especially for beginners, so don't worry about it, just make sure to have some spare props on hand and replace them when they break to maintain good performance and safety.
 
 You will break props, so you don't need a super durable prop, and about the low pitch, it will give you good flight time and efficiency, and it's easier to control for beginners, so it's a good choice for your first build.
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/04e3a67f-352e-4682-9a26-d126f678491d" />
