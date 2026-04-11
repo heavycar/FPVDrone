@@ -4,4 +4,5 @@ Mine uses JST/XH balance connector and XT60 so i went with the ISDT Carregador 4
 
 It's not generical and very reliable.
 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/5cadb6db-c8c0-4622-93a2-d3dd1de350f7" />
 
